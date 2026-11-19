@@ -6,9 +6,15 @@
 
 Buscando oportunidades como **Estagiário em TI / Desenvolvimento Web** ou **Jovem Aprendiz** para construir aplicações completas, responsivas e bem estruturadas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-henzo-sousa)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davivilas1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davihenzo001@gmail.com)
+<a href="https://www.linkedin.com/in/davi-henzo-sousa" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Davivilas1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&to=davihenzo001@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -16,12 +22,12 @@ Buscando oportunidades como **Estagiário em TI / Desenvolvimento Web** ou **Jov
 
 ### 🚀 Projeto em Destaque: KeeperHub (TCC)
 
-Plataforma web modular (PWA) desenvolvida em equipe como Trabalho de Conclusão de Curso para organização de rotinas pessoais e domésticas — reunindo módulos de **Finanças, Despensa, Pets e Medicamentos**, seleção dinâmica de planos, assistente integrado e alternância entre **tema claro e escuro**[cite: 3, 4, 5, 10].
+Plataforma web modular (PWA) desenvolvida em equipe como Trabalho de Conclusão de Curso para organização de rotinas pessoais e domésticas — reunindo módulos de **Finanças, Despensa, Pets e Medicamentos**, seleção dinâmica de planos, assistente integrado e alternância entre **tema claro e escuro**.
 
 - **Engenharia & Colaboração:** Projeto real com mais de **700 commits** e fluxo organizado via branches e Pull Requests no GitHub.
-- **Minha atuação:** Desenvolvimento de interfaces responsivas, prototipação no Figma, modelagem e integração com banco de dados MySQL e arquitetura modular Front-end/Back-end[cite: 1, 10].
-- **Aplicação Online:** [Acessar KeeperHub](https://keeperhub-iota.vercel.app)[cite: 3, 10]
-- **Repositório Oficial:** [github.com/pjlkaw/keeperhub](https://github.com/pjlkaw/keeperhub)[cite: 10]
+- **Minha atuação:** Desenvolvimento de interfaces responsivas, prototipação no Figma, modelagem e integração com banco de dados MySQL e arquitetura modular Front-end/Back-end.
+- **Aplicação Online:** <a href="https://keeperhub-iota.vercel.app" target="_blank">Acessar KeeperHub</a>
+- **Repositório Oficial:** <a href="https://github.com/pjlkaw/keeperhub" target="_blank">github.com/pjlkaw/keeperhub</a>
 
 ---
 
@@ -44,5 +50,4 @@ Plataforma web modular (PWA) desenvolvida em equipe como Trabalho de Conclusão 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Davivilas1&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davivilas1&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="165" />
-</div>
+  <img src="
